@@ -3,7 +3,7 @@
 - This website helps you collect photo, stories the store in this website for someday you will check it maybe. 
 
 
-2.To open project: 
+2. To open project: 
 - Step 1: git clone
 - Step 2: Open Terminal 1, then cd client
 - Step 3: [In client Terminal] npm start
