@@ -1,4 +1,4 @@
-# Project5-mern-website-memories
+# Project5-mern-website-memories [Frontend]
 1. What is the website ? 
 - This website helps you collect photo, stories the store in this website for someday you will check it maybe. 
 
